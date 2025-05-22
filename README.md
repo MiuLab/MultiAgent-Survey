@@ -6,17 +6,16 @@
 
 Large language model (LLM)-driven multi-agent systems (MAS) are transforming how humans and AIs collaboratively generate ideas and artifacts. While existing surveys provide comprehensive overviews of MAS infrastructures, they largely overlook the dimension of creativity, including how novel outputs are generated and evaluated, how creativity informs agent personas, and how creative workflows are coordinated.
 
-**This survey offers a structured framework and roadmap for advancing the development, evaluation, and standardization of creative MAS. **
+**This survey offers a structured framework and roadmap for advancing the development, evaluation, and standardization of creative MAS.**
+<!--
 <p align="center">
 <img src="Assets/figure1.png" width="330" height="330"/>
 </p>
-
+-->
 ## :fire: Update
-- [17.May.2024] Our paper has been accepted by [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/document/10531702/keywords#keywords).
-- [22.Oct.2023] ArXiv Version: Vision Language Models in Autonomous Driving and Intelligent Transportation Systems 
 
-## 🤝 &nbsp; Citation
-Please visit [Vision Language Models in Autonomous Driving: A Survey and Outlook](https://ieeexplore.ieee.org/document/10531702) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
+## 🤝  Citation
+<!--- Please visit [Creativity in LLM-based Multi-Agent Systems: A Survey) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows: -->
 
 ```BibTeX
 @ARTICLE{10531702,
@@ -31,8 +30,10 @@ Please visit [Vision Language Models in Autonomous Driving: A Survey and Outlook
 ```
 
 ## :page_with_curl: Introduction
-The applications of **Vision-Language Models (VLMs)** in the fields of **Autonomous Driving (AD)** and **Intelligent Transportation Systems (ITS)** have attracted widespread attention due to their outstanding performance and the ability to leverage **Large Language Models (LLMs)**. By integrating
-language data, the vehicles, and transportation systems are able to deeply understand real-world environments, improving driving safety and efficiency
+**MAS** comprises multiple autonomous entities: software agents, robots, or human-AI hybrids. This structure enables emergent collaboration and richer exploration of open-ended creative spaces, significantly underlying the practice for computational creativity.
+Here, **computational creativity** refers to the creation of artifacts—such as ideas, behaviors, or solutions—that are both novel and valuable, demonstrating clear usefulness or appeal rather than being random.
+
+This survey focuses on systems whose inputs and outputs span text and images. We aim to map the current landscape of techniques, datasets, evaluations, and challenges to foster and measure creativity in such multimodal and heterogeneous systems. By analyzing how different agents interact, we reveal how collaborative structures can unlock creative potentials that exceed what isolated LLMs or individuals can achieve.
 
 <p align="center">
 <img src="Assets/figure2.jpg"/>
