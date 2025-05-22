@@ -36,10 +36,10 @@ Here, **computational creativity** refers to the creation of artifacts—such as
 This survey focuses on systems whose inputs and outputs span text and images. We aim to map the current landscape of techniques, datasets, evaluations, and challenges to foster and measure creativity in such multimodal and heterogeneous systems. By analyzing how different agents interact, we reveal how collaborative structures can unlock creative potentials that exceed what isolated LLMs or individuals can achieve.
 
 <p align="center">
-<img src="Assets/figure2.jpg"/>
+<img src="assets\Creativity MAS.drawio_v6.png"/>
 </p>
 
-## 🌟 Large VLMs in Autonomous Driving
+## 🌟 MAS Workflow and Proactivity
 
 ### Perception and Understanding
 | Method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Year | Task                                                | Code Link                                                        |                                               
@@ -63,8 +63,8 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 
 
 
-
-### Navigation and Planning
+## 🌟 MAS Techniques for Creativity
+### Divergent Exploration
 | Method                                                                                                                                                                       | Year | Task                                                     | Code Link                                              |                                               
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------------------------------------------|--------------------------------------------------------| 
 | [Talk to the vehicle: Language conditioned autonomous navigation of self driving car](https://ieeexplore.ieee.org/document/8967929)                                          | 2019 | Language-Guided Navigation                               |                                                        | 
@@ -77,7 +77,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 
 
 
-### Decision-Making and Control
+### Iterative Refinement
 | Method                                                                                                                                                                                                                                                                | Year | Task                                        | Code Link                                              |                                               
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---------------------------------------------|--------------------------------------------------------| 
 | [Advisable Learning for Self-driving Vehicles by Internalizing Observation-to-Action Rules](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.pdf) | 2020 | Open-loop Decision-Making                   |                                                        |
@@ -89,7 +89,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2307.07162.pdf)                                                                                                                                                  | 2024 | Closed-loop Decision-Making                 | [Github](https://github.com/PJLab-ADG/DriveLikeAHuman) |
 
 
-### End-to-End Autonomous Driving
+### Collaborative Synthesis
 | Method                                                                                                                                                             | Year | Task                                                | Code Link                                                                               |                                               
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-----------------------------------------------------|-----------------------------------------------------------------------------------------| 
 | [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)                                            | 2023 | Open-loop Control, Visual Question Answering        | []()                                                                                    |
@@ -103,7 +103,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)       | 2025 | Open-loop planning, Visual Question Answering | [Github](https://github.com/DriveVLA/OpenDriveVLA) |
 
 
-
+## 🌟 Persona and Agent Profile
 ### Data Generation
 | Method                                                                                                                                                                                                                              | Year | Task                                    | Code Link                                                     |                                               
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-----------------------------------------|---------------------------------------------------------------| 
@@ -116,9 +116,9 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [DriveGenVLM: Real-world Video Generation for Vision Language Model-based Autonomous Driving](https://arxiv.org/pdf/2408.16647)                                                                                                                 | 2024 | Conditional Video Generation            |         |
 
 
-## 🌟 Large VLMs in Intelligent Transportation Systems
+## 🌟 Evaluation
 
-### ITS Perception and Understanding
+### Objective Measurements 
 | Method                                                                                                                                                                                                                                                                                            | Year | Task                                        | Code Link                                                      |                                               
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---------------------------------------------|----------------------------------------------------------------| 
 | [A Multi-granularity Retrieval System for Natural Language-based Vehicle Retrieval](https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhang_A_Multi-Granularity_Retrieval_System_for_Natural_Language-Based_Vehicle_Retrieval_CVPRW_2022_paper.pdf)                                   | 2022 | Language-Guided Vehicle Retrieval           | [Page](https://www.aicitychallenge.org/2023-challenge-tracks/) |
@@ -132,7 +132,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 
 
 
-### ITS Management System
+### Subjective Measurements
 | Method                                                                                                                                                                                                                                                                                                                                                                                        | Year | Task                   | Code Link |                                               
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------------------------|-----------|
 | [LLM Powered Sim-to-real Transfer for Traffic Signal Control](https://arxiv.org/pdf/2308.14284.pdf)                                                                                                                                                                                                                                                                                           | 2023 | Traffic Signal Control |           |
@@ -140,7 +140,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 
 ## 🌟 Dataset
 
-### Autonomous Driving Datasets
+### Psychological Test Datasets
 | Dataset                                                                                                                                                                                                                                                                                           | Year | Task                       | Data Link                                             |                                               
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------------|-------------------------------------------------------| 
 | [Pedestrian Detection: A Benchmark](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206631)                                                                                                                                                                                             | 2009 | 2D OD                      | [Link](https://data.caltech.edu/records/f6rph-90m20)  |
@@ -153,7 +153,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.pdf)                                                                   | 2020 | 2D OD, 2D SS, OT           | [Link](https://bdd-data.berkeley.edu/)                |
 | [Scalability in Perception for Autonomous Driving: Waymo Open Dataset](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.pdf)                                                                        | 2020 | 2D/3D OD, 2D/3D SS, OT     | [Link](https://waymo.com/open/)                       |
 
-### Language-Enhanced Autonomous Driving Datasets
+### Task Specific Datasets
 | Dataset                                                                                                                                                                                                                                                                                           | Year | Task                                                 | Data Link                                               |                                               
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------------------------------------------------------|---------------------------------------------------------|
 | [Textual explanations for self-driving vehicles](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf)                                                                                                                                  | 2018 | Textural Explanation                                 | [Link](https://github.com/JinkyuKimUCB/BDD-X-dataset)   |
@@ -173,14 +173,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning](https://arxiv.org/pdf/2309.06597.pdf)                                                                                                                                                                        | 2023 | Importance Ranking, Visual-Spatial Reasoning         |                                                         |
 | [MAPLM: A Real-World Large-Scale Vision-Language Benchmark for Map and Traffic Scene Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.pdf)       | 2024 | Visual Spatial Reasoning  |  [Github](https://github.com/LLVM-AD/MAPLM) | 
 
-### Language-Enhanced Intelligent Transportation Systems Datasets
-| Dataset                                                                                                                                                                                                                                                                                           | Year | Task                       | Data Link                                                   |                                               
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------------|-------------------------------------------------------------|
-| [Future Frame Prediction for Anomaly Detection – A New Baseline](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf)                                                                                                                          | 2018 | Anomaly Detection          | [Link](https://github.com/StevenLiuWen/ano_pred_cvpr2018)   |
-| [Real-world Anomaly Detection in Surveillance Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)                                                                                                                            | 2018 | Anomaly Detection          | [Link](https://www.crcv.ucf.edu/projects/real-world/)       |
-| [Sutd-trafficqa: A question answering benchmark and an efficient network for video reasoning over traffic events](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf)                        | 2021 | Visual Question Answering  | [Link](https://github.com/sutdcv/SUTD-TrafficQA)            |
-| [AerialVLN: Vision-and-Language Navigation for UAVs](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_AerialVLN_Vision-and-Language_Navigation_for_UAVs_ICCV_2023_paper.pdf)                                                                                                             | 2023 | Vision-Language Navigation | [Link](https://github.com/AirVLN/AirVLN)                    |
-| [TUMTraffic-VideoQA: A Benchmark for Unified Spatio-Temporal Video Understanding in Traffic Scenes](https://arxiv.org/pdf/2502.02449)                                                                                                             | 2025 | Traffic Scnene Understanding | [Link](http://traffix-videoqa.com/)                    |
+               |
 
 ## License
 
