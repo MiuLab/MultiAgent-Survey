@@ -76,8 +76,8 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [AgentReview: Exploring Peer Review Dynamics with LLM Agents](https://aclanthology.org/2024.emnlp-main.70/)  | EMNLP 2024 | medium   | high  |  
 | [StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning](https://dl.acm.org/doi/10.1145/3649921.3656987)    | FDG 2024 | medium   | high  |  
 | [PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/pdf/2407.18416)   [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/vsamuel2003/PersonaGym)            [<img src="https://www.svgrepo.com/show/405739/globe-with-meridians.svg" width="30" />](https://personagym.com/)     | arXiv(2025) | high  | medium  | 
-| [StoReys: A neurosymbolic approach to human-AI co-creation of novel action-oriented narratives in known story worlds](https://dl.acm.org/doi/10.1145/3613904.3642647)    | 2024 | medium   | high  |  
-| [StoReys: A neurosymbolic approach to human-AI co-creation of novel action-oriented narratives in known story worlds](https://dl.acm.org/doi/10.1145/3613904.3642647)    | 2024 | medium   | high  |   
+| [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943)    | arxiv(2024) | high  | medium  |   
+| [CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis](https://arxiv.org/abs/2406.12665)   | arxiv(2025) | medium   | high  |   
 ## 🌟 MAS Techniques for Creativity
 ### Divergent Exploration
 | Method                                                                                                                                                                       | Year | Task                                                     | Code Link                                              |                                               
