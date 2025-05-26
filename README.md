@@ -77,7 +77,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning](https://dl.acm.org/doi/10.1145/3649921.3656987)    | FDG 2024 | medium   | high  |  
 | [PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/pdf/2407.18416)   [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/vsamuel2003/PersonaGym)            [<img src="https://www.svgrepo.com/show/405739/globe-with-meridians.svg" width="30" />](https://personagym.com/)     | arXiv(2025) | high  | medium  | 
 | [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943)    | arxiv(2024) | high  | medium  |   
-| [CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis](https://arxiv.org/abs/2406.12665)   | arxiv(2025) | medium   | high  |  
+| [CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis](https://arxiv.org/abs/2406.12665)   | arxiv(2025) | medium   | high  |   
 
 ## 🌟 MAS Techniques for Creativity
 
@@ -85,16 +85,16 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | Method | Year | Task | Code Link |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----:|:--------------------------------------------------------------|:-------------------------------------------------------------|
 | [Human Creativity in the Age of LLMs: Randomized Experiments on Divergent and Convergent Thinking](https://doi.org/10.1145/3706598.3714198) | 2024 | AUT and RAT|  |
-| [PersonaGym: A Reinforcement Learning Environment for Training Multi-Persona Agents](https://arxiv.org/abs/2407.18416) | 2024 | Character Design| <https://github.com/xlang-ai/PersonaGym> |
+| [PersonaGym: A Reinforcement Learning Environment for Training Multi-Persona Agents](https://arxiv.org/abs/2407.18416) | 2024 | Character Design|  |
 | [Creativity Support in the Age of Large Language Models](https://arxiv.org/abs/2309.12570) | 2024 | Creative Writing |  |
 | [One Does Not Simply “Meme” Alone: Self-Dialogue for Creative Ideation](https://doi.org/10.1145/3708359.3712094) | 2024 | Humor Co-Creation |  |
 | [Rapid AIdeation: Generating Ideas With the Self and in Collaboration With LLMs](https://arxiv.org/abs/2403.12928) | 2024 | Idea Generation |  |
 | [AI-Augmented Brainwriting: Exploring Idea Flow Between Groups and Large Language Models](https://doi.org/10.1145/3613904.3642414) | 2024 | Idea Generation |  |
 | [AI and the Future of Collaborative Work: Group Ideation With an LLM in a Virtual Canvas](https://doi.org/10.1145/3663384.3663398) | 2024 | Idea Generation |  |
-| [ContextCam: Bridging Context Awareness With Creative Human-AI Image Co-creation](https://doi.org/10.1145/3613904.3642129) | 2024 | Image Generation | <https://github.com/XianzheFan/ArtAgent-api> |
+| [ContextCam: Bridging Context Awareness With Creative Human-AI Image Co-creation](https://doi.org/10.1145/3613904.3642129) | 2024 | Image Generation |  |
 | [C2Ideas: Supporting Creative Interior Color Design Ideation With an LLM](https://dl.acm.org/doi/full/10.1145/3613904.3642224) | 2024 | Interior Color Design Ideation |  |
-| [IRIS: An Interactive Co-pilot for Accelerated Research Ideation](https://aclanthology.org/2024.hcinlp-1.6/) | 2023 | Research Ideation | <https://github.com/Anikethh/IRIS-Interactive-Research-Ideation-System> |
-| [PersonaFlow: Dynamic Multi-persona Interaction Framework](https://github.com/Ate329/PersonaFlow) | 2024 | Research Ideation| <https://github.com/Ate329/PersonaFlow> |
+| [IRIS: An Interactive Co-pilot for Accelerated Research Ideation](https://aclanthology.org/2024.hcinlp-1.6/) | 2023 | Research Ideation |  |
+| [PersonaFlow: Dynamic Multi-persona Interaction Framework](https://github.com/Ate329/PersonaFlow) | 2024 | Research Ideation|  |
 | [VirSci: Autonomous Team-Leader Agent for Virtual Scientific Collaboration](https://arxiv.org/abs/2409.12538) | 2025 | Scientific Research Co-creation |  |
 | [StoryDrawer: Sketch-Based Storyboarding With Multi-agent Discussion](https://arxiv.org/abs/2410.09403) | 2024 | Sketches Generation |  |
 | [ICCRI: Inclusive Co-creative Child-Robot Interaction](https://dl.acm.org/doi/10.5555/3721488.3721531) | 2025 | Story Generation |  |
@@ -113,6 +113,7 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing](https://aclanthology.org/2024.findings-emnlp.474.pdf)                                                                                      | 2024 | Screenwriting                        |           |
 | [A Collaborative, Interactive and Context-Aware Drawing Agent for Co-Creative Design](https://dl.acm.org/doi/10.1109/TVCG.2023.3293853)                                                                                                       | 2024 | Sketches Generation                  |           |
 | [Generative Agents: Interactive Simulacra of Human Behavior](https://doi.org/10.1145/3586183.3606763)                                                                                                                                         | 2023 | Social Simulation                    |           |
+
 
 
 ### Collaborative Synthesis
