@@ -70,9 +70,14 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling](https://dl.acm.org/doi/10.1145/3613904.3642647)    | 2024 | medium   | medium  |   | 
 | [PersonaFlow: Boosting Research Ideation with LLM-Simulated Expert Personas](https://ieeexplore.ieee.org/document/10494260)    | 2024 | high  | low  |   | 
 | [DesignGPT: Multi-Agent Collaboration in Design](https://arxiv.org/abs/2409.12538)    | 2024 | medium   | medium  |   | 
-| [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)   | 2025 | medium   | medium  |   | 
-| [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://arxiv.org/abs/2407.16252)   | 2024 | medium   | medium  |   | 
-| [Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling](https://dl.acm.org/doi/10.1145/3613904.3642647)    | 2024 | medium   | medium  |   | 
+| [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)   | 2025 | medium   | high  |   | 
+| [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://arxiv.org/abs/2407.16252)   | 2024 | medium   | high  |   | 
+| [StoReys: A neurosymbolic approach to human-AI co-creation of novel action-oriented narratives in known story worlds](https://computationalcreativity.net/iccc24/papers/ICCC24_paper_16.pdf)   | 2024 | medium   | high  |   | 
+| [AgentReview: Exploring Peer Review Dynamics with LLM Agents](https://aclanthology.org/2024.emnlp-main.70/)  | 2024 | medium   | high  |   | 
+| [StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning](https://dl.acm.org/doi/10.1145/3649921.3656987)    | 2024 | medium   | high  |   | 
+| [StoReys: A neurosymbolic approach to human-AI co-creation of novel action-oriented narratives in known story worlds](https://dl.acm.org/doi/10.1145/3613904.3642647)    | 2024 | medium   | high  |   | 
+| [StoReys: A neurosymbolic approach to human-AI co-creation of novel action-oriented narratives in known story worlds](https://dl.acm.org/doi/10.1145/3613904.3642647)    | 2024 | medium   | high  |   | 
+| [StoReys: A neurosymbolic approach to human-AI co-creation of novel action-oriented narratives in known story worlds](https://dl.acm.org/doi/10.1145/3613904.3642647)    | 2024 | medium   | high  |   | 
 
 ## 🌟 MAS Techniques for Creativity
 ### Divergent Exploration
