@@ -113,9 +113,8 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [Systematic Idea Refinement for Machine Learning Research Agents](https://openreview.net/pdf?id=z0LxrMfFRi)                                                                                       | THU 2024 Winter AML| Human-Defined | Assitant         |
 | [Sparkit: A mind map-based mas for idea generation support.](https://link.springer.com/chapter/10.1007/978-3-031-71152-7_1)                                                                            | EMAS 2024 | Human-Defined            |  Self-Defined            |
 | [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://aclanthology.org/2024.emnlp-main.992.pdf)                                                                                                                 | EMNLP 2024 | Human-Defined           | Debater       |
-| [An Interactive Co-Pilot for Accelerated Research Ideation](https://aclanthology.org/2024.hcinlp-1.6.pdf)                                                                                                                 | HCINLP 2024 | Human-Defined            |        
-   Mentor & Colleague   |
-| [ChainBuddy: An AI-assisted Agent System for Generating LLM Pipelines](https://dl.acm.org/doi/pdf/10.1145/3706598.3714085)                                                                                                                 | CHI 2025 | Human-Defined            |        
+| [An Interactive Co-Pilot for Accelerated Research Ideation](https://aclanthology.org/2024.hcinlp-1.6.pdf)                                                                                                                 | HCINLP 2024 | Human-Defined    | Mentor & Colleague   |
+| [ChainBuddy: An AI-assisted Agent System for Generating LLM Pipelines](https://dl.acm.org/doi/pdf/10.1145/3706598.3714085)                                                                                                                 | CHI 2025 | Human-Defined  | 
   Mentor & Planner   |
 
 
