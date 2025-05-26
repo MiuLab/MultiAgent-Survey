@@ -112,8 +112,12 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/pdf/2407.18416)                                                                                                                 | arXiv(2025) | Human-defined          | Self-Defined         |
 | [Systematic Idea Refinement for Machine Learning Research Agents](https://openreview.net/pdf?id=z0LxrMfFRi)                                                                                       | THU 2024 Winter AML| Human-Defined | Assitant         |
 | [Sparkit: A mind map-based mas for idea generation support.](https://link.springer.com/chapter/10.1007/978-3-031-71152-7_1)                                                                            | EMAS 2024 | Human-Defined            |  Self-Defined            |
-| [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845)                                                                                                                 | 2023 | Conditional Video Generation            | [Github](https://drivedreamer2.github.io/)         |
-| [DriveGenVLM: Real-world Video Generation for Vision Language Model-based Autonomous Driving](https://arxiv.org/pdf/2408.16647)                                                                                                                 | 2024 | Conditional Video Generation            |         |
+| [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://aclanthology.org/2024.emnlp-main.992.pdf)                                                                                                                 | EMNLP 2024 | Human-Defined           | Debater       |
+| [An Interactive Co-Pilot for Accelerated Research Ideation](https://aclanthology.org/2024.hcinlp-1.6.pdf)                                                                                                                 | HCINLP 2024 | Human-Defined            |        
+   Mentor & Colleague   |
+| [ChainBuddy: An AI-assisted Agent System for Generating LLM Pipelines](https://dl.acm.org/doi/pdf/10.1145/3706598.3714085)                                                                                                                 | CHI 2025 | Human-Defined            |        
+  Mentor & Planner   |
+
 
 ### Medium-Coarse-Grained
 | Method                                                                                                                                                                                                                              | Year | Task                                    | Code Link                                                     |                                               
