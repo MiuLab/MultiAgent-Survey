@@ -195,7 +195,6 @@ This survey focuses on systems whose inputs and outputs span text and images. We
 | [The Power of Personality: A Human Simulation Perspective to Investigate Large Language Model Agents](https://arxiv.org/abs/2502.20859)                                                                            | arXiv(2025) | Model-Generated |   Self-Defined    |
 | [Creative Agents: Simulating the Systems Model of Creativity with Generative Agents](https://arxiv.org/abs/2411.17065) | arXiv(2024) | Model-Generated |   Artist        |
 | [Synergizing Human-AI Agency: A Guide of 23 Heuristics for Service Co-Creation with LLM-Based Agents](https://arxiv.org/abs/2310.15065)                                                                                                                 | arXiv(2023) | Model-Generated |     Self-Defined        |
-
 | [Generative Agents: Interactive Simulacra of Human Behavior](https://dl.acm.org/doi/10.1145/3586183.3606763)   [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/joonspk-research/generative_agents)  | UIST 2023   | Conditional Video Generation            |    Human-defined | Sandbox Character     |
 |[AgentReview: Exploring Peer Review Dynamics with LLM Agents](https://aclanthology.org/2024.emnlp-main.70/)  [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ahren09/agentreview) | EMNLP 2024| Human-defined  |  Reviewer   |
 
