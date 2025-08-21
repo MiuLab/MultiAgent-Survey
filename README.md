@@ -18,14 +18,16 @@ Large language model (LLM)-driven multi-agent systems (MAS) are transforming how
 <!--- Please visit [Creativity in LLM-based Multi-Agent Systems: A Survey) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows: -->
 
 ```BibTeX
-@ARTICLE{10531702,
-  author={Zhou, Xingcheng and Liu, Mingyu and Yurtsever, Ekim and Zagar, Bare Luka and Zimmer, Walter and Cao, Hu and Knoll, Alois C.},
-  journal={IEEE Transactions on Intelligent Vehicles}, 
-  title={Vision Language Models in Autonomous Driving: A Survey and Outlook}, 
-  year={2024},
-  pages={1-20},
-  keywords={Autonomous vehicles;Task analysis;Planning;SData models;Surveys;Computational modeling;Visualization;Vision Language Model;Large Language Model;Autonomous Driving;Intelligent Vehicle;Conditional Data Generation;Decision Making;Language-guided Navigation;End-to-End Autonomous Driving},
-  doi={10.1109/TIV.2024.3402136}}
+@inproceedings{lin2025creativity,
+    title = "Creativity in LLM-based Multi-Agent Systems: A Survey",
+    author = "Yi-Cheng Lin and Kang-Chieh Chen and Zhe-Yan Li and Tzu-Heng Wu and Tzu-Hsuan Wu and Kuan-Yu Chen and Hung-yi Lee and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics"
+}
 
 ```
 
